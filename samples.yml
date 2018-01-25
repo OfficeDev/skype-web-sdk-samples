@@ -1,0 +1,23 @@
+samples:
+    - name: Skype for Business Web SDK Samples
+      relPath:
+      description: Two examples that demonstrate how to use the Skype for Business SDK to connect to and use information.
+      readme: https://github.com/OfficeDev/skype-web-sdk-samples/blob/master/README.md
+      screenshots:
+          - relPath:
+            description:
+            alt:
+          - relPath:
+            description:
+            alt:
+      generateZip: true
+      indexed: true
+      reviewOnly: true
+      tags:
+          - skype
+          - skypewebsdkonpremsample
+          - skypewebsdkonlinesample
+          - JavaScript
+      azureDeploy:
+      tryNow:
+      author: JohnAustin-MSFT
