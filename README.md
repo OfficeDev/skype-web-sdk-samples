@@ -1,16 +1,3 @@
----
-page_type: sample
-products:
-- skype
-- office-skype-business
-- office-365
-languages:
-- javascript
-- html
-extensions:
-  contentType: sdks
-  createdDate: 3/18/2016 2:38:41 PM
----
 # Microsoft Skype for Business Web SDK
 
 The Microsoft Skype Web SDK provides multiple APIs from Microsoft Skype for Business through a JavaScript library. Using the Web SDK, your web app can use Skype for Business conversations and contact lists.

@@ -1,0 +1,13 @@
+page_type: sample
+products:
+  - skype
+  - office-skype-business
+  - office-365
+languages:
+  - javascript
+  - html
+extensions:
+  contentType: sdks
+  createdDate: '3/18/2016 2:38:41 PM'
+title: Microsoft Skype for Business Web SDK
+description: The Microsoft Skype Web SDK provides multiple APIs from Microsoft Skype for Business through a JavaScript library. 
